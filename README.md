@@ -2,7 +2,7 @@
 
 **Author:** McKenna Sheridan
 
-**Due date:** _\<date\>_
+**Due date:** February 9, 2016
 
 ## Description
 
