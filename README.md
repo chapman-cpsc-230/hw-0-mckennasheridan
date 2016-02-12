@@ -6,11 +6,11 @@
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+For this assignment, I had to retrieve this file from the GitHub cloud and download it onto my machine. Once downloaded, I had to edit this file, save it, and send it back to the GitHub cloud.
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+This assignment taught me how to use GitHub and retrieve Git files from the cloud. I also learned how to use the editer, Atom, to edit Git files.
 
 ## Honor Pledge
 
@@ -21,4 +21,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+McKenna Sheridan
